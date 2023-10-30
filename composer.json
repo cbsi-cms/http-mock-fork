@@ -1,5 +1,5 @@
 {
-    "name": "internations/http-mock",
+    "name": "cbsi-cms/internations-http-mock",
     "description": "Mock HTTP requests on the server side in your PHP unit tests",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     ],
      "require": {
         "php": "~7.1",
-        "silex/silex": "~2.0",
+        "silex/silex": "*",
         "guzzle/guzzle": ">=3.8",
         "symfony/process": "~3|~4|~5",
         "jeremeamia/superclosure": "~2",
