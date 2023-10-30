@@ -1,5 +1,5 @@
 {
-    "name": "cbsi-cms/internations-http-mock",
+    "name": "cbsi/internations-http-mock",
     "description": "Mock HTTP requests on the server side in your PHP unit tests",
     "license": "MIT",
     "authors": [
